@@ -73,5 +73,8 @@ if __name__ == "__main__":
 ### 5.2 db.csv 저장 확인
 ![image_8](images/qt_db_03.png)
 
+## 6. WebCam을 연결하여 사진을 추가로 저장하도록 했습니다.
+![image_8](images/qt_webCam_01.png)
+![image_9](images/qt_webCam_02.png)
 
 
