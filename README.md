@@ -15,7 +15,7 @@
 ![image_5](images/qt_005.png)
 
 ## 5. 저장 버튼을 누르면 csv 파일에 저장하는 기능 추가
-''''
+
 '''
 
 import csv
@@ -64,6 +64,5 @@ if __name__ == "__main__":
     main_window = MainWindow()
     main_window.show()
     app.exec()
-    
+
 '''
-''''
