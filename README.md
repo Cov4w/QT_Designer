@@ -17,8 +17,7 @@
 ## 5. 저장 버튼을 누르면 csv 파일에 저장하는 기능 추가
 
 <pre>
-<code>
-
+    <code>
 import csv
 from PyQt6 import uic
 from PyQt6.QtWidgets import QApplication, QMainWindow, QMessageBox
@@ -65,8 +64,14 @@ if __name__ == "__main__":
     main_window = MainWindow()
     main_window.show()
     app.exec()
-<code>
-<pre>
-
+    </code>
+</pre>
 
 ### 5.1 프로그램 실행
+![image_6](images/qt_db_01.png)
+![image_7](images/qt_db_02.png)
+### 5.2 db.csv 저장 확인
+![image_8](images/qt_db_03.png)
+
+
+
