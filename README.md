@@ -9,6 +9,7 @@
 ### 2.2 main.py 파일 만들기
 ![image_3](images/qt_002.png)
 ## 3. QT Desinger를 이용해 UI 만들기
+### 3.1 이와 같이 프리뷰 기능을 이용해 직접 코딩을 하지 않고도 ui 제작 가능
 ![image_4](images/qt_004.png)
 ## 4. main.py 코드를 .ui 파일 위치를 지정해준 후 실행
 ![image_5](images/qt_005.png)
