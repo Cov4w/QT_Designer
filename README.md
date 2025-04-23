@@ -65,5 +65,8 @@ if __name__ == "__main__":
     main_window = MainWindow()
     main_window.show()
     app.exec()
-<pre>
 <code>
+<pre>
+
+
+### 5.1 프로그램 실행
