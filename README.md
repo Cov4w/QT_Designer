@@ -13,3 +13,6 @@
 ![image_4](images/qt_004.png)
 ## 4. main.py 파일 실행전 .ui 파일 저장 위치를 지정해준 후 실행
 ![image_5](images/qt_005.png)
+
+## 5. 저장 버튼을 누르면 csv 파일에 저장하는 기능 추가
+###
